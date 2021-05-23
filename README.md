@@ -1,4 +1,4 @@
-# diamond-regression
+# Diamond Analytics
 
 ## Dataset Description
 
